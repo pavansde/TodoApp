@@ -43,12 +43,12 @@ To run the project locally:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/todo-app  
+   git clone https://github.com/pavansde/TodoApp  
    ```  
 
 2. Navigate to the project directory:  
    ```bash  
-   cd todo-app  
+   cd TodoApp  
    ```  
 
 3. Import the project into your IDE (e.g., IntelliJ, Eclipse).  
